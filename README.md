@@ -1,4 +1,4 @@
-# Fitness Health App
+# Todo App
 
 A new Flutter project.
 
@@ -15,4 +15,5 @@ flutter pub run build_runner build --delete-conflicting-outputs
 
 ## Flutter  3.16.1
 ## Dart 3.2.1
-# [Video Demonstration] (https://drive.google.com/file/d/149G0KjSB216YKzhylokCBfPMd6VCPH5x/view?usp=drivesdk)
+
+# [Video Demonstration](https://drive.google.com/file/d/149G0KjSB216YKzhylokCBfPMd6VCPH5x/view?usp=drivesdk)
